@@ -81,7 +81,7 @@ margin-bottom: 15px;
     color: rgb(35, 48, 138);
     margin-bottom: 10px;
 }
-@media (max-width; 600px){
+@media (max-width: 600px){
     body{
         padding: 15px;
     }
